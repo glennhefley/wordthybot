@@ -1,0 +1,207 @@
+
+ my_corpus = nltk.corpus.PlaintextCorpusReader('/usr/share/some-corpus', r'.*\.txt') 
+
+
+
+liosta: "list" (Norman: liste)
+aidhm: "aim" (Norman French aesmer; where cuspóir is considered by some to be the 'native' Irish word)
+halla: "hall" (Norse hǫll; the Irish word is áras).
+véarsa, béarsa [the b- form considered to be uneducated dialect]: "verse" (Norman French verse [ˈβʲeːrsə]; the Irish word is rann)
+cathaoir: "chair" (both words derive from Latin cathedra)
+sciorta: "skirt" (both words are from Norse skyrta)
+cóta: "coat" (both words are from Anglo-Norman cotte)
+forc: "fork" (both from Latin furca)
+pláta: "plate" (both from Old French plate, from Medieval Latin plata)
+grúpa: "group" (both from French groupe)
+seans: "chance" (both from Old French chance)
+coinneal: "candle" (both ultimately from Latin candēla)
+páipéar: "paper" (Old Irish páipér; both words derive from Old French paper, papier)
+leathar: "leather" (Old Irish lethar, Old English leþer; both words derive from the Proto-Indo-European root *létrom)[2]
+loch: "lake", "lough" (Old Irish loch, Old English lagu; both words derive from the Proto-Indo-European root *lókus, "pond, pool")
+praghas: "price" (also possibly from Norman French preis, pris)
+dabht: "doubt" (the Irish words are: amhras, gó)
+carr: "car" (Old Irish carr, "wagon", from Proto-Celtic karros)
+cros: "cross" (the Irish word is from Latin crux; the English form with -s at the end may be a borrowing directly from Old Irish)
+clog: "clock" (Old Irish cloc, Latin clocca, possibly of Celtic derivation)
+peata: "pet (animal)" (entered English from Scottish Gaelic, from Middle Irish pet[t]a; possibly from French petit, "small," or Brittonic *petti-, "thing, piece")
+iarann: "iron" (both words ultimately derive from Proto-Celtic *īsarnom, "iron")[citation needed]
+
+
+<span class="ediltr">(.*?)</span>
+<span class="def">(.*?)</span>
+
+
+<span class="ediltr">ascends to the company of God</span>, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+material cause
+which gives them their material form
+the face for its comeliness
+across the face of the firmament
+palm of my right hand
+we were in advance of that working-party
+giving countenance to them
+to attack A.
+making for the sea
+face downwards
+all evil away from us
+turned their ships towards
+if C. and the U. make for us
+fortune turned her face towards the king
+attacked
+turned their attention to
+whatever science a person may turn to
+he faced everybody
+face the band over the shore of L.
+when it is exposed to the sun
+before them
+in the presence of
+before him
+they pretend friendship to their faces
+behind their backs
+they were brought before the kings of N.
+who met him
+go to him
+on the watch for E.
+the river rose against him
+against the current
+there is a synchronism contradicting that
+upstairs
+uphill
+O. disputed that
+I shall do the same for you
+in return for
+an angel to correct
+we are about to give battle
+as a counterpart to
+in compensation for that
+in his place
+a year for every hour
+in return for
+face to face (with
+directly facing
+face to face
+a step forward
+going forward
+forwards and backwards
+forwards
+when it slips forward
+account is taken only of slipping forward
+broadfaced
+because I had avenged the ill-treatment I had received
+for my sake
+on account of what he suffered for our sake
+for that reason
+though I am poor as regards watercress
+in the matter of the day of the month
+nevertheless let me know (who were) my own parents
+in spite of that
+though Jesus changed her form
+lending is the beginning of refusal
+giving his mind to
+who did not turn from his purpose
+until he moved from it
+until he arose
+until you changed
+has a different perfume
+subjects
+so that rich people became husbandmen
+from the possessive form
+thou art the fairest in human form
+that is refusing me effectively
+so that his joints were dislocated
+flesh and limbs are entrusted to it
+monosyllable
+juncture
+artificial division (within a syllable
+natural division
+between syllables
+in completeness of form
+it was impossible to speak to him
+it is not their way
+in the same manner
+beautiful ash-handled javelins
+big-limbed
+every ladder that reaches heaven
+rung of a ladder
+wood for carrying a corpse (i.e. for a bier),
+quick-set tree
+it is for us they fight
+who fights for the Son of Mary
+he threatened
+so that every noble form is compared with me
+arose as one man and went out
+the power of Clann D. increased
+it is from there you will arise and go to the great meeting of judgement
+she passed from one wilderness to another
+the men attack him
+F. rises to get his sword
+goes
+they all come and she overpowers them
+his strength grew over the S.
+went out on
+rise before him
+would go to meet
+the bishop who did not rise up as a mark of respect from humility will arise to do evil
+the nobles of the province would rise to your call
+the soldier attacked the serpent
+did not attack him
+they arise to attack them together
+rose to welcome H.
+thy church will be a city of refuge
+act of invoking, appealing to x against y, in order to obtain someth. from y
+to take away part of the meal, and to invoke God in the matter
+ut ne nos inducas in tentationem
+an invoking of evil
+to pray to thee and to praise thee
+the strength of thy prayer
+he whom the elements beseech
+at the Devil's request, instigation
+plea for freedom
+for his prayer
+for those who ask him for friendship
+false) tale of slaughter
+I have undertaken
+truth will be uttered
+to which I refer
+every noble form is judged by comparison with mine
+I invoke
+woman of the womb
+betrothed woman
+an abducted woman
+single, unmarried woman
+by the lady of the Maigue
+prophetess
+equal rank with the king's wife for his wife
+heed not the foolish words of women
+his wife
+daughter in law
+mother in law
+of their female stock
+a female ward
+feminine declension
+of the sorceress
+let them not touch forbidden things
+the action of a female overcame C.'s action of a male
+female counterpart of G.:
+they take a feminine pronoun
+poetess
+bondwoman:
+to the Ford of Woman-Slaughter
+(the soul) that was his (i.e. the body's) own mistress
+supported by a woman
+who has made you dependent on a woman's bounty
+each hospitaller with his consort
+niece
